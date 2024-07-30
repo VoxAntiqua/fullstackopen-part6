@@ -1,0 +1,9 @@
+[submodule "query-anecdotes"]
+	path = query-anecdotes
+	url = https://github.com/VoxAntiqua/query-anecdotes
+[submodule "redux-anecdotes"]
+	path = redux-anecdotes
+	url = https://github.com/VoxAntiqua/Redux-Anecdotes
+[submodule "unicafe-redux"]
+	path = unicafe-redux
+	url = https://github.com/VoxAntiqua/unicafe-redux
